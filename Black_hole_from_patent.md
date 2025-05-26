@@ -9,7 +9,7 @@
 - Fumed silica (such as CAB-O-SIL MS-7SD)
 - Deionized water
 - Cleaner/conditioner solution (patent suggests AC-102 aluminum cleaner (oxalic acid), Grout cleaner with oxalic acid is fine, you can use a diluted solution of sodium hydroxide (NaOH) or potassium hydroxide (KOH) as well)
-- Sodium persulfate microetch solution (200gm of sodium persulfate per liter and 0.5% by weight sulfuric acid)
+- Sodium persulfate microetch solution (80gm of sodium persulfate per liter and 0.5% by weight sulfuric acid)
 - 10% sulfuric acid solution (Battery acid (37% H2SO4 ) diluted to 10% works well)
 
 

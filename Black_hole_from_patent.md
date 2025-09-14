@@ -1,6 +1,6 @@
 # Original Source: https://patentimages.storage.googleapis.com/e5/d2/b6/ed813b1b6b9be8/US4619741.pdf
 ## Carbon Black Hole Preparation for Circuit Boards
-## This is my slightly modified version of the process
+## This is my slightly modified version of the process, here from posterity. For a better modern formula, see [Proven_Black_hole_solution.md](./Proven_Black_hole_solution.md) 
 
 ## Materials Needed:
 - Carbon black particles (preferably with pH 2-4, such as Cabot Monarch 1300 or Columbian Raven 3500)

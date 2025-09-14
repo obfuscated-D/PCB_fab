@@ -3,4 +3,5 @@
 (links)
 - [Black Hole Plating Solution ](bh_solution.md)
 - [Copper Electroplating Solution](Plating_solution.md)
+- [Useful Solutions](solutions.md)
 
